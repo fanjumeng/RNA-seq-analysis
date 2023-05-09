@@ -1,4 +1,4 @@
-# RNA-seq analysis
+# RNA-seq analysis updated
 
 ### General sequencing data analysis materials
 * [Next-Gen Sequence Analysis Workshop (2015)](http://angus.readthedocs.org/en/2015/) held by [Titus Brown](http://genomecenter.ucdavis.edu/people/faculty/name/c-titus-brown/)  (now in UC Davis)
